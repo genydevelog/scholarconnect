@@ -53,11 +53,11 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span>+33 1 23 45 67 89</span>
+                <span>+237652378292</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
-                <span>Paris, France</span>
+                <span>cameroun, yaounde</span>
               </div>
             </div>
           </div>
